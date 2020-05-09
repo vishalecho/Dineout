@@ -1,12 +1,12 @@
-#Dineout
+# Dineout
 A restaurants finder android app illustrating the building of a good, modular and scalable Android app using Kotlin, Android Architecture Components (LiveData, ViewModel & Room), Dagger, RxJava and RxAndroid among others.
 
-#Features
+# Features
 Some of the features of the app include
 - **Near by Restaurants** - Displaying the nearest 50 restaurants to any location using Foursquare's API
 [Developer Guide](https://developer.foursquare.com/docs/api-reference/venues/explore/) at [Developer Site] (https://developer.foursquare.com).
 
-#Best Practices
+# Best Practices
 - **Kotlin** - This app is completely written in Kotlin.
 - **Android Architecture Components** - Lifecycle awareness has been achieved using a combination of LiveData and ViewModels.
 - **MVVM Architecture** - Using the lifecycle aware ViewModels, the view observes changes in the model / repository.
@@ -14,7 +14,7 @@ Some of the features of the app include
 - **Dependency Injection** - Common elements like `context`, `networking` interface are injected using Dagger 2.
 - **Effective Networking** - Using a combination of Retrofit, Rx and LiveData, we are able to handle networking in the most effective way. 
 
-#Libraries used
+# Libraries used
 * [Dagger 2](https://google.github.io/dagger/)
 * [Retrofit](http://square.github.io/retrofit/)
 * [OkHttp](http://square.github.io/okhttp/)
@@ -29,10 +29,10 @@ Some of the features of the app include
   - Compile SDK - 29
   - Target SDK - 29
   
-#Recurrences
+# Recurrences
 * [Writing a modular project on Android](https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37)
 
-#License
+# License
 
     MIT License
     
