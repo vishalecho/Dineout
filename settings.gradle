@@ -1,2 +1,3 @@
 rootProject.name='Dineout'
 include ':app'
+include ':core'
