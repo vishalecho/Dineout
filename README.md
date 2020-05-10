@@ -29,7 +29,7 @@ Some of the features of the app include
   - Compile SDK - 29
   - Target SDK - 29
   
-# Recurrences
+# Reference
 * [Writing a modular project on Android](https://medium.com/mindorks/writing-a-modular-project-on-android-304f3b09cb37)
 
 # License
