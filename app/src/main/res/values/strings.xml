@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Dineout</string>
+    <string name="app_bar_title">Near Fueled - Top 50 Restaurant </string>
+    <string name="need_internet_venues">Need internet to fetch top restaurants!</string>
+    <string name="failed_venues_try_again">Failed to load restaurants. Please try again later.</string>
+
+    <string name="open_google_map">Open Google Map</string>
+
 </resources>
