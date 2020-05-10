@@ -62,4 +62,7 @@ dependencies {
 
     api deps.facebook.stetho
     api deps.facebook.networkInterceptor
+
+    testImplementation deps.test.junit
+    androidTestImplementation deps.test.atslRunner
 }
